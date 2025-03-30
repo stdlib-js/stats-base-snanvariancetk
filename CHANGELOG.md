@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d29459f`](https://github.com/stdlib-js/stdlib/commit/d29459f42ffb811574ad0f7b449f686df6e5daa9) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`30114f2`](https://github.com/stdlib-js/stdlib/commit/30114f2fc3dc343319fe3a8d44ca022a7c4f6750) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`cd35166`](https://github.com/stdlib-js/stdlib/commit/cd351660a65b2bcfbef7f1211960b569ccccd7a9) - **refactor:** update `stats/base/snanvariancetk` native addon from C++ to C [(#4505)](https://github.com/stdlib-js/stdlib/pull/4505) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
