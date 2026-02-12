@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3f082c4`](https://github.com/stdlib-js/stdlib/commit/3f082c405532bdd617a97fb6b4f4ea3dac67a633) - **bench:** refactor to use string interpolation in `stats/base/snanvariancetk` [(#10245)](https://github.com/stdlib-js/stdlib/pull/10245) _(by Bhargav Dabhade)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Bhargav Dabhade
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
