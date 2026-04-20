@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-27)
+## Unreleased (2026-04-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1f25495`](https://github.com/stdlib-js/stdlib/commit/1f25495222d077a1f1180de17a3d20223d406363) - **bench:** refactor to use dynamic memory allocation in `stats/base/snanvariancetk` [(#11645)](https://github.com/stdlib-js/stdlib/pull/11645) _(by Uday Kakade)_
 -   [`3f082c4`](https://github.com/stdlib-js/stdlib/commit/3f082c405532bdd617a97fb6b4f4ea3dac67a633) - **bench:** refactor to use string interpolation in `stats/base/snanvariancetk` [(#10245)](https://github.com/stdlib-js/stdlib/pull/10245) _(by Bhargav Dabhade)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Bhargav Dabhade
+-   Uday Kakade
 
 </section>
 
